@@ -1,0 +1,11 @@
+{
+  "name": "demo2",
+  "version": "0.0.2",
+  "description": "a demo app",
+  "public": false,
+  "dependencies": {
+    "stylus": "~0.38.0",
+    "jade": "~0.35.0",
+    "express": "~3.4.0"
+  }
+}
